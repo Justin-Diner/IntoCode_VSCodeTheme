@@ -4,6 +4,18 @@
   "description": "Dark Theme by Motiv8der",
   "version": "0.0.1",
   "publisher": "IntoCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Justin-Diner/IntoCode_VSCodeTheme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Motiv8der",
+    "IntoCode",
+    "JustIntoCode",
+    "intocode"
+  ],
   "engines": {
     "vscode": "^1.80.0"
   },
