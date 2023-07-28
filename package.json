@@ -1,0 +1,22 @@
+{
+  "name": "motiv8der-dark-theme",
+  "displayName": "Motiv8der Dark Theme",
+  "description": "Dark Theme by Motiv8der",
+  "version": "0.0.1",
+  "publisher": "IntoCode",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Motiv8 Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/motiv8der-s-theme-color-theme.json"
+      }
+    ]
+  }
+}
